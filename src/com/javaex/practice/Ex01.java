@@ -15,7 +15,7 @@ public class Ex01 {
 		 if( name == "홍길동" )
 		*/
 		
-		//(4)
+		//(1,2)
 		
 	}
 	
